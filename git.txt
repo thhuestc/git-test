@@ -1,6 +1,7 @@
 Suppose you want to log the events that happen in a project importer. 
 You want to log issues created, merge requests, etc. as the importer progresses.
-Here¡¯s what to do:
+HereÂ¡Â¯s what to do:
 
 Develop a new function.
 
+change
